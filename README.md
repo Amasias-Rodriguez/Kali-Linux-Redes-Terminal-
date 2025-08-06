@@ -1,4 +1,4 @@
-# Kali-Linux-Redes-Terminal-
+# Kali-Linux-Network-Terminal-
 Practicing some commands with the virtual machine of Kali Linux 
 This repository contains practice with Kali Linux using a virtual machine. The goal is to familiarize myself with basic networking commands, analysis tools and Linux systems operation from the terminal.
 
