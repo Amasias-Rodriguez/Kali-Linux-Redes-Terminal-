@@ -1,2 +1,3 @@
 ---- Advanced scanning with nmap ----
-Capture [scanning-ports.png] - Basic enumeration scanning with default NSE scripts
+- Capture [scanning-ports.png] - Basic enumeration scanning with default NSE scripts
+- Capture [listing.png] - Enumeration of directories in HTTP. Looking for vulnerable apps, administration panels and open ports
