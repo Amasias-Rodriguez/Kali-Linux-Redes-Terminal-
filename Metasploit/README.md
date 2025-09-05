@@ -8,3 +8,5 @@
 # Capture [frame.png] 
 - Opening Metasploit console inside the attacking vm in Kali.
 - Doing this we can manage sessions with the victim and load exploits.
+# Capture [import.png]
+- Importing database to Metasploit inside the attacking vm machine.
