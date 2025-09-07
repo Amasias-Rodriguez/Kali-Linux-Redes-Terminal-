@@ -6,3 +6,7 @@
 - search = Looking modules inside Metasploit
 - type:exploit = Limit the search to only exploits
 - name:ftp = Filter to search just exploits related with FTP (vulnerable services)
+# Capture [shell.png]
+- Opening a remote shell in Metasploit using command:
+  use exploit/unix/ftp/vsftpd_234_backdoor
+
